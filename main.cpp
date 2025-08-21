@@ -9,8 +9,8 @@
 #include <curl/curl.h>
 
 #define MX(mxNumb) ((mxNumb < 1 || mxNumb > 8) ? 0 : 1)
-#define HELP "ambari.developer@gmail.com"
-#define SAVEFILENAME "sql_vuln.txt"
+#define HELP "dobre081105@gmail.com"
+#define SAVEFILENAME "sqlscan.txt"
 #define RD "\033[31m"
 #define RS "\033[0m"
 #define GR "\033[32m"
