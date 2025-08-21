@@ -8,9 +8,9 @@
 **Usare sqlvuln python, disponibile per linux e termux (android)**
 ```
 $apt install pyton3 git -y
-$git clone https://github.com/Ranginang67/SQLVuln
-$cd SQLVuln
-$python3 sqlvuln.py
+$git clone https://github.com/DobreGabriel/SQL-INJECTION-SCANNER
+$cd sqlscan
+$python3 sqlscan.py
 ```
 
 
@@ -19,8 +19,8 @@ $python3 sqlvuln.py
 
 ```
 $sudo apt-get install git
-$git clone https://github.com/Ranginang67/SQLVuln
-$cd SQLVuln
+$git clone https://github.com/DobreGabriel/SQL-INJECTION-SCANNER
+$cd sqlscan
 $chmod +x *.sh
 $./install.sh main.cpp
 $./dork
