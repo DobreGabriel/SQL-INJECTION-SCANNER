@@ -1,16 +1,5 @@
 # -*- coding: utf-8 -*-
 
-"""
-SQLVuln
--------
-simple tool to scanning sql injection vulnerability
-and this tool is very easy to use.
-
-Author: Ms.ambari
-Github: /Ranginang67
-YouTube: Ms.ambari
-"""
-
 import sys
 
 if sys.version_info < (3,0):
